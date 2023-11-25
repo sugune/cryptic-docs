@@ -15,7 +15,7 @@ const Footer = () => {
         <img src={theme.logo} className="w-[100px]" alt="logo" />
       </a>
       <p className="text-muted text-sm text-center">
-        Copyright © 2023 Cyrus Cards. All rights reserved
+        Copyright © 2023 Cryptic Cards. All rights reserved
       </p>
       <div className="flex gap-4">
         {socials.map((social) => (

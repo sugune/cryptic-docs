@@ -2,7 +2,7 @@ export const navLinks = [
   { href: "#home", label: "home" },
   { href: "#themes", label: "themes" },
   { href: "#options", label: "options" },
-  { href: "https://cyruscards.netlify.app/", label: "cyrus cards" },
+  { href: "https://cyruscards.netlify.app/", label: "cryptic cards" },
 ];
 
 export const socials = [
@@ -10,10 +10,10 @@ export const socials = [
     link: "https://www.facebook.com/cyrus.manguerra.1",
     logo: "fa-brands fa-facebook",
   },
-  {
-    link: "https://www.facebook.com/myka.mesa.1",
-    logo: "fa-brands fa-facebook",
-  },
+  // {
+  //   link: "https://www.facebook.com/myka.mesa.",
+  //   logo: "fa-brands fa-facebook",
+  // },
 ];
 
 export const themes = [
