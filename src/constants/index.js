@@ -2,7 +2,7 @@ export const navLinks = [
   { href: "#home", label: "home" },
   { href: "#themes", label: "themes" },
   { href: "#options", label: "options" },
-  { href: "https://cyruscards.netlify.app/", label: "cryptic cards" },
+  { href: "https://cryptic-cards.vercel.app", label: "cryptic cards" },
 ];
 
 export const socials = [
